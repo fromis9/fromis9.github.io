@@ -9,7 +9,7 @@ doc.setAttribute('data-useragent', navigator.userAgent);
 </script>
 <link rel="shortcut icon" type="image/x-icon" href="http://static.news.naver.net/image/news/2014/favicon/favicon.ico">
 <script type="text/javascript" src="./123213213213213_files/jindo.desktop.ns.min.js.다운로드"></script>
-<script type="text/javascript" src="./123213213213213_files/enter.define.js.다운로드"></script>
+<script type="text/javascript" src="./123213213213213_files/enter.define.js.다운"></script>
 <script type="text/javascript" src="./123213213213213_files/imageError.js.다운로드"></script>
 <script type="text/javascript">
 document.domain = 'naver.com';

@@ -3,7 +3,6 @@
 	
 	
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta charset="utf-8">
 <script type="text/javascript" charset="utf-8">
 var doc = document.documentElement;
 doc.setAttribute('data-useragent', navigator.userAgent);
